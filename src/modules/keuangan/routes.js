@@ -66,7 +66,7 @@ export default [
     path: 'keuangan/paket-subscription',
     component: () => import('./pages/PaketSubscription.vue'),
     meta: {
-      title: 'Halaman Menu Paket Subcription',
+      title: 'Halaman Menu Paket Subscription',
       parent: 'Keuangan',
       description: 'Kelola paket langganan dan tagihan lisensi aplikasi CerdasBangsa.'
     }
